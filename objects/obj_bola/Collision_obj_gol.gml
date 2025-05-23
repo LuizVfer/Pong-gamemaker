@@ -1,7 +1,7 @@
 /// @description gol
 // Você pode escrever seu código neste editor
 
-show_debug_message("GOL")
+//show_debug_message("GOL")
 
 //voltando para o centro do level
 

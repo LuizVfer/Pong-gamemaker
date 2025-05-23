@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_bola",
   "spriteId": {
-    "name": "spr_bola",
-    "path": "sprites/spr_bola/spr_bola.yy",
+    "name": "spr_ball",
+    "path": "sprites/spr_ball/spr_ball.yy",
   },
   "solid": true,
   "visible": true,

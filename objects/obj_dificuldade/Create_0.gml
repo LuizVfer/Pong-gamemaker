@@ -5,9 +5,9 @@
 image_speed = 0
 image_index = 0
 
-easy = 0.8
-normal = 1.5
-hard = 3
+easy = 1.5
+normal = 2
+hard = 3.5
 impossible = 10
 
 

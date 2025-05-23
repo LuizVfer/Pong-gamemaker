@@ -22,7 +22,7 @@ global.gols_max = 3
 //global.hard = 3
 //global.impossible = 10
 
-easy = 0.8
+easy = 1.5
 global.dificuldade = easy
 
 

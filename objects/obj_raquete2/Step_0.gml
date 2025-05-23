@@ -28,3 +28,5 @@ if(vspeed < -velocidade_ia)
 {
 	vspeed = -velocidade_ia // llimitando a velocidade para cima
 }
+
+show_debug_message(vspeed)

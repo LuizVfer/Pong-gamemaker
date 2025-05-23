@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_raquete",
   "spriteId": {
-    "name": "spr_raquete",
-    "path": "sprites/spr_raquete/spr_raquete.yy",
+    "name": "spr_raquete_player1",
+    "path": "sprites/spr_raquete_player1/spr_raquete_player1.yy",
   },
   "solid": true,
   "visible": true,

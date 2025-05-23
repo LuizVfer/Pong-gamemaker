@@ -4,8 +4,6 @@
 //passando a minha velocidade para a variavel global
 global.velv_bola = vspeed
 
-show_debug_message(vspeed)
-
 
 if(vspeed >= 15)
 {
